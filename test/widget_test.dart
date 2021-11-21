@@ -2,8 +2,6 @@ import 'package:stats/stats.dart';
 
 void main() {
   List<int> dataAngka = [3, 18, 45, 16, 2, 5, 7, 9, 10, 1, 16, 11, 4, 8, 11, 16, 32, 56];
-  int index = 0;
-  int maxData = dataAngka.length;
 
   // sudah bagus memanfaatkan fungsi sort
   //mengurutkan ke terbesar
